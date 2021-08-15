@@ -1,0 +1,44 @@
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\bin\Debug\BeatTiles.exe.config
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\bin\Debug\BeatTiles.exe
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\bin\Debug\BeatTiles.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\bin\Debug\BeatTiles.xml
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\BeatTiles.vbprojResolveAssemblyReference.cache
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\MainWindow.g.vb
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\UCs\Tile.g.vb
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\Application.g.vb
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\BeatTiles_MarkupCompile.cache
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\BeatTiles_MarkupCompile.lref
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\MainWindow.baml
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\UCs\Tile.baml
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\BeatTiles.g.resources
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\BeatTiles.Resources.resources
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\BeatTiles.vbproj.GenerateResource.Cache
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\BeatTiles.exe
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\BeatTiles.xml
+C:\Users\pc\AppData\Local\Temporary Projects\BeatTiles\obj\Debug\BeatTiles.pdb
+D:\Visual Studio Files\BeatTiles\BeatTiles\bin\Debug\BeatTiles.exe.config
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\BeatTiles.exe
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\BeatTiles.xml
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\BeatTiles.pdb
+D:\Visual Studio Files\BeatTiles\BeatTiles\bin\Debug\BeatTiles.exe
+D:\Visual Studio Files\BeatTiles\BeatTiles\bin\Debug\BeatTiles.pdb
+D:\Visual Studio Files\BeatTiles\BeatTiles\bin\Debug\BeatTiles.xml
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\BeatTiles.vbprojResolveAssemblyReference.cache
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\MainWindow.g.vb
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\UCs\Tile.g.vb
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\Application.g.vb
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\BeatTiles_MarkupCompile.cache
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\BeatTiles_MarkupCompile.lref
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\MainWindow.baml
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\UCs\Tile.baml
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\BeatTiles.g.resources
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\BeatTiles.Resources.resources
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\BeatTiles.vbproj.GenerateResource.Cache
+D:\Visual Studio Files\BeatTiles\BeatTiles\bin\Debug\Bass.Net.dll
+D:\Visual Studio Files\BeatTiles\BeatTiles\bin\Debug\TagLibSharp.dll
+D:\Visual Studio Files\BeatTiles\BeatTiles\bin\Debug\TagLibSharp.pdb
+D:\Visual Studio Files\BeatTiles\BeatTiles\bin\Debug\TagLibSharp.xml
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\UCs\LevelField.g.vb
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\UCs\LevelField.baml
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\UCs\HomeScreen.g.vb
+D:\Visual Studio Files\BeatTiles\BeatTiles\obj\Debug\UCs\HomeScreen.baml
